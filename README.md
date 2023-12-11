@@ -6,7 +6,7 @@ This repository showcases the development of a cutting-edge gesture-based presen
 
 ### Key Technologies Utilized
 
-- **OpenCV**: Real-time hand detection for precise interaction.
+- **OpenCV**: Capture Real-time Video for precise interaction.
 - **cvzone HandTrackingModule**: Integration for advanced hand tracking capabilities.
 - **NumPy**: Efficient array manipulation for optimized performance.
 
